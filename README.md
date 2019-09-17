@@ -29,6 +29,8 @@ What are some of the features of this lamp?
 - Upgradable
 - many more coming
 
+![IMG_20190917_121708](https://user-images.githubusercontent.com/51088815/65034688-d3c02080-d947-11e9-9e0a-ae43fa02d2a9.jpg)
+
 How do upgrades work?
 
 It is based on an Arduino chip (atmega328) and ESP32 (also Arduino ide compatible) so if you have some knowledge in Arduino programming you can add a servo motor that turns the lamp 360 degrees if you want. You can buy some sensors form (probably) China and add it to your lamp or you can redesign the app for it so it has much more functionality. This lamp is all about price/feature ratio and upgradability.
