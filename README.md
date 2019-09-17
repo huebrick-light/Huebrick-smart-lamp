@@ -1,4 +1,6 @@
 # Huebrick-smart-lamp
+![ezgif com-optimize](https://user-images.githubusercontent.com/51088815/65032679-e46e9780-d943-11e9-93de-aac0e55a9e48.gif)
+
 This is a smart lamp that is created in the way that it can be upgraded at any time but still used by a normal user.
 
 What does that mean?
