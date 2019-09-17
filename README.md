@@ -29,7 +29,7 @@ What are some of the features of this lamp?
 
 How do upgrades work?
 
-It is based on an Arduino chip (atmega328) and ESP8266 (also Arduino ide compatible) so if you have some knowledge in Arduino programming you can add a servo motor that turns the lamp 360 degrees if you want. You can buy some sensors form (probably) China and add it to your lamp or you can redesign the app for it so it has much more functionality. This lamp is all about price/feature ratio and upgradability.
+It is based on an Arduino chip (atmega328) and ESP32 (also Arduino ide compatible) so if you have some knowledge in Arduino programming you can add a servo motor that turns the lamp 360 degrees if you want. You can buy some sensors form (probably) China and add it to your lamp or you can redesign the app for it so it has much more functionality. This lamp is all about price/feature ratio and upgradability.
 
 Why is it open source?
 
