@@ -37,6 +37,8 @@ Why is it open source?
 
 Well if I was the only person that makes this first of all it would not be good and second of all if I ever get bored of the project it can still live on without me. And last, of all, there are business possibilities in this for you, for example, you can download the plans and start producing your lamps and selling them if you want to do that.
 
+   ![lamp 3 current](https://user-images.githubusercontent.com/51088815/65033936-52b45980-d946-11e9-933e-9ccb7c696f96.jpg)
+
 How do I contact you if I want to know more about this project?
 
 You can contact me over an e-mail or join a discord group:
